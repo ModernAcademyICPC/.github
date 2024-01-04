@@ -1,5 +1,3 @@
 ## Welcome in MACPC GitHub profile 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Maps&pause=1000&color=D9C200&background=00A2FF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+in+MACPC+Github+profile;Problem+Solving+%26+Competitive+Programming+Community;ICPC+student+branch+of+Modern+Academy;ICPC+Modern+Academy+Community" alt="Typing SVG" /></a>
-
-<p align="center"><a href="https://sites.google.com/view/macpc24/home" target="_blank"><img src="https://github.com/ModernAcademyICPC/.github/blob/main/profile/logo.png" width="30%"></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Maps&pause=1000&color=D9C200&background=00A2FF00&center=true&vCenter=true&random=false&width=800&lines=Welcome+in+MACPC+Github+profile;Problem+Solving+%26+Competitive+Programming+Community;ICPC+student+branch+of+Modern+Academy;ICPC+Modern+Academy+Community" alt="Typing SVG" /></a><p align="center"><a href="https://sites.google.com/view/macpc24/home" target="_blank"><img src="https://github.com/ModernAcademyICPC/.github/blob/main/profile/logo.png" width="30%"></a></p>
